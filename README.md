@@ -1,6 +1,6 @@
-# wechat
+# vue-mall
 
-> A Vue.js project
+> 微信公众号测试项目
 
 ## Build Setup
 
