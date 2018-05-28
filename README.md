@@ -5,8 +5,12 @@
 ## 测试功能
 
 #### 1、微信网页授权
+
+
 授权方案采用
 ![image](https://segmentfault.com/img/remote/1460000010753253)
+
+
 图片引用地址[SegmentFault](https://segmentfault.com/a/1190000010753247)
 
 这种授权在第4步请求服务器返回token后,vue客服端直接重定向到最开始进入的页面
